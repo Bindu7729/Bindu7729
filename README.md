@@ -5,59 +5,82 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/penumalabindu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-181717?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:pbibinduamb@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/CONNECT-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/normal-badge/?username=Bindu7729&label=PROFILE%20VIEWS&color=2563EB&style=flat-square" alt="Visitor Count" />
-  <img src="https://img.shields.io/github/followers/Bindu7729?label=Followers&style=flat-square&color=7C3AED" alt="Followers" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-Hi! I'm a **Computer Science Engineering student** at **Mohan Babu University (Batch 2027)**. I'm deeply passionate about software development, artificial intelligence, and building tools that resolve complex engineering problems.
+Hi! I'm a **Computer Science & Engineering undergraduate** at **Mohan Babu University (Batch 2027)** with a strong academic record (**8.89 CGPA**). I focus on engineering highly scalable full-stack web applications and designing enterprise workflow automation pipelines.
 
-* 💻 **Full Stack Development:** Crafting responsive user interfaces and robust APIs.
-* 🧠 **Artificial Intelligence:** Experimenting with automated agents, ML logic, and automation workflows.
-* 🔍 **Problem Solving:** Moving deeper into Data Structures & Algorithms to tackle algorithmic challenges.
-* 🛠️ **Real-World Impact:** Building state-of-the-art educational and software products (like CodeVista).
+* 💻 **Full Stack Development:** Passionate about building responsive user interfaces and backend API integrations.
+* 🧠 **ServiceNow & Agentic AI:** Gained experience as a **ServiceNow Virtual Intern**, configuring enterprise flows using Automated Test Framework (ATF) and next-generation automated workflows.
+* 🔍 **DSA & Peer Mentorship:** Core Team Member of the **MBU Coding Club**, coaching over **50+ junior students** in Data Structures, Object-Oriented Programming (OOP), and programming fundamentals in Java and Python.
+* 🏆 **Hackathon Leadership:** Represented Mohan Babu University in competitive engineering events, including *VIT-AP's Hackathon X* and the *AI Autonomous Hackathon 2025*.
 
 ---
 
 ### 🖥️ Tech Stack
 
-<p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/DSA-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <br />
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <br />
-  <!-- Backend & Databases -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <br />
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      <br />Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br />Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br />JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      <br />TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <br />React.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind" />
+      <br />Tailwind CSS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+      <br />Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48" height="48" alt="Express" />
+      <br />Express.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+      <br />MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      <br />MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br />Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+      <br />GitHub
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -65,9 +88,9 @@ Hi! I'm a **Computer Science Engineering student** at **Mohan Babu University (B
 
 <p align="left">
   <img src="https://img.shields.io/badge/DATA_STRUCTURES_%26_ALGORITHMS-00599C?style=flat-square" />
-  <img src="https://img.shields.io/badge/FULL_STACK_DEVELOPMENT-007ACC?style=flat-square" />
-  <img src="https://img.shields.io/badge/MERN_STACK-47A248?style=flat-square" />
-  <img src="https://img.shields.io/badge/DATABASE_MANAGEMENT-4479A1?style=flat-square" />
+  <img src="https://img.shields.io/badge/FULL_STACK_DEVELOPMENT-ED8B00?style=flat-square" />
+  <img src="https://img.shields.io/badge/MERN_STACK-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/DATABASE_MANAGEMENT-47A248?style=flat-square" />
   <img src="https://img.shields.io/badge/PROBLEM_SOLVING-F05032?style=flat-square" />
   <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square" />
   <img src="https://img.shields.io/badge/SOFTWARE_DEVELOPMENT-000000?style=flat-square" />
@@ -75,65 +98,86 @@ Hi! I'm a **Computer Science Engineering student** at **Mohan Babu University (B
 
 ---
 
+### 📚 Relevant Coursework
+
+<p align="left">
+  <img src="https://img.shields.io/badge/DATA_STRUCTURES_&_ALGORITHMS-007ACC?style=flat-square" />
+  <img src="https://img.shields.io/badge/OBJECT_ORIENTED_PROGRAMMING-E34F26?style=flat-square" />
+  <img src="https://img.shields.io/badge/DATABASE_MANAGEMENT_SYSTEMS-4479A1?style=flat-square" />
+  <img src="https://img.shields.io/badge/OPERATING_SYSTEMS-339933?style=flat-square" />
+  <img src="https://img.shields.io/badge/COMPUTER_NETWORKS-1572B6?style=flat-square" />
+  <img src="https://img.shields.io/badge/SOFTWARE_ENGINEERING-181717?style=flat-square" />
+</p>
+
+---
+
 ### 📌 Featured Projects
 
-| Project | Description |
-| :--- | :--- |
-| 🚀 **[CodeVista](https://github.com/Bindu7729/codeVista)** | Interactive Programming Visualization Platform that parses user loops and variables step-by-step. |
-| 🧠 **[PrepSuite AI](https://github.com/Bindu7729/prepsuite-ai)** | AI-Powered Placement Preparation Platform with Mock Tests and LLM Resume builders. |
-| 🗺️ **[PlanMyJourney](https://github.com/Bindu7729/-PlanMyJourney-)** | Premium travel planning and logistics management platform. |
-| ☕ **[My Coffee Website](https://github.com/Bindu7729/my-cofffe-webiste)** | A responsive, elegant coffee shop experience storefront. |
-| 🛕 **[Darshan](https://github.com/Bindu7729/darsan)** | Temple Darshan booking and queue slots allocation manager. |
+<table width="100%">
+  <tr>
+    <th width="30%">Project</th>
+    <th width="70%">Description</th>
+  </tr>
+  <tr>
+    <td>🚀 <b><a href="https://github.com/Bindu7729/codeVista">CodeVista</a></b></td>
+    <td>Interactive Programming Visualization Platform supporting step-by-step trace animations of loops, variable scopes, and reference heaps.</td>
+  </tr>
+  <tr>
+    <td>🧠 <b><a href="https://github.com/Bindu7729/prepsuite-ai">PrepSuite AI</a></b></td>
+    <td>AI-Powered Placement Preparation Platform featuring mock coding sandboxes and recruitment pipeline tracking.</td>
+  </tr>
+  <tr>
+    <td>🗺️ <b><a href="https://github.com/Bindu7729/-PlanMyJourney-">PlanMyJourney</a></b></td>
+    <td>Premium travel planning and logistics management platform for user itinerary tracking.</td>
+  </tr>
+  <tr>
+    <td>☕ <b><a href="https://github.com/Bindu7729/my-cofffe-webiste">My Coffee Website</a></b></td>
+    <td>Modern Coffee Shop storefront web portal built with clean HTML, CSS, and vanilla JS.</td>
+  </tr>
+  <tr>
+    <td>🛕 <b><a href="https://github.com/Bindu7729/darsan">Darshan</a></b></td>
+    <td>Temple Darshan Booking and queue slot allocation management system.</td>
+  </tr>
+</table>
 
 ---
 
 ### 📚 Certifications
 
-* 🏆 **Microsoft AI Skills Fest**
-* 🏆 **Microsoft Build Learning Paths**
-* 🏆 **IBM Generative AI**
-* 🏆 **Google AI Courses**
-* 🏆 **Automation Anywhere Certifications**
+* 🎓 **ServiceNow Virtual Internship Certification** | SmartBridge & AICTE (May 2026)
+* 🎓 **Generative AI** | Google Cloud (Cloud-native AI solutions using foundational models)
+* 🎓 **Intro to Open GPT Models** | Infosys (Prompt engineering & LLM architectures)
+* 🎓 **Data Science Foundations** | Oracle (Database architectures & data analytics)
 
 ---
 
 ### 🌱 Currently Learning
 
-* 📖 Data Structures & Algorithms
-* 🤖 Artificial Intelligence & Agentic Workflows
-* ⚙️ Software Engineering Best Practices
+* ⚙️ Advanced Data Structures & Algorithms
+* 🤖 Artificial Intelligence Agents & Automation Systems
+* 🛠️ Software Engineering design principles
 * 🧠 Advanced Problem Solving Patterns
 
 ---
 
 ### 🎯 Areas of Interest
 
-* 💻 Software Development
-* 🧠 Artificial Intelligence
-* 🌐 Web Development
+* 💻 Software Development & Architectures
+* 🧠 Artificial Intelligence & Agentic AI
+* 🌐 Web Development (MERN)
 * 📊 Data Science & Intelligent Automation
 * ⚡ Vibe Coding
 
 ---
 
-### 📊 GitHub Diagnostics & Activity
+### 🌐 Connect With Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bindu7729&show_icons=true&theme=nord&hide_border=true&align=center" alt="Bindu's Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.pages.dev/?user=Bindu7729&theme=nord&hide_border=true" alt="Streak Stats" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bindu7729&layout=compact&theme=nord&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Bindu7729/Bindu7729">
-    <img src="https://github.com/Bindu7729/Bindu7729/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-  </a>
-</p>
+* 📧 **Email:** [pbibinduamb@gmail.com](mailto:pbibinduamb@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/penumalabindu](https://www.linkedin.com/in/penumalabindu)
+* 🐙 **GitHub:** [github.com/Bindu7729](https://github.com/Bindu7729)
 
 ---
+
 <p align="center">
   <b>⭐ Building • Learning • Growing</b>
 </p>
