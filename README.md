@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 
-Hi! I'm a **Computer Science & Engineering undergraduate** at **Mohan Babu University (Batch 2027)** with a strong academic record (**8.89 CGPA**). I focus on engineering highly scalable full-stack web applications and designing enterprise workflow automation pipelines.
+Hi! I'm a **Computer Science & Engineering undergraduate** at **Mohan Babu University (Batch 2027)**. I focus on engineering highly scalable full-stack web applications and designing enterprise workflow automation pipelines.
 
 * 💻 **Full Stack Development:** Passionate about building responsive user interfaces and backend API integrations.
 * 🧠 **ServiceNow & Agentic AI:** Gained experience as a **ServiceNow Virtual Intern**, configuring enterprise flows using Automated Test Framework (ATF) and next-generation automated workflows.
@@ -34,42 +34,12 @@ Hi! I'm a **Computer Science & Engineering undergraduate** at **Mohan Babu Unive
       <br />Java
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      <br />Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      <br />JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      <br />TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
-      <br />React.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind" />
-      <br />Tailwind CSS
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-      <br />Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48" height="48" alt="Express" />
-      <br />Express.js
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      <br />MySQL
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
       <br />MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-      <br />MySQL
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
@@ -78,6 +48,10 @@ Hi! I'm a **Computer Science & Engineering undergraduate** at **Mohan Babu Unive
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
       <br />GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" />
+      <br />Spring Boot
     </td>
   </tr>
 </table>
@@ -144,6 +118,7 @@ Hi! I'm a **Computer Science & Engineering undergraduate** at **Mohan Babu Unive
 
 ### 📚 Certifications
 
+* 🎓 **Certified Advanced Automation Professional** | Automation Anywhere (ID: AAADVC2024A360-185172322, June 2026)
 * 🎓 **ServiceNow Virtual Internship Certification** | SmartBridge & AICTE (May 2026)
 * 🎓 **Generative AI** | Google Cloud (Cloud-native AI solutions using foundational models)
 * 🎓 **Intro to Open GPT Models** | Infosys (Prompt engineering & LLM architectures)
