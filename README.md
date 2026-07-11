@@ -1,6 +1,11 @@
-<h1 align="center">Hi 👋, I'm Penumala Bindu</h1>
 <p align="center">
-  <b>Computer Science Engineering Student • Full Stack Developer • AI Enthusiast • Problem Solver</b>
+  <img src="https://raw.githubusercontent.com/Bindu7729/Bindu7729/main/header.svg" alt="Penumala Bindu Header" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Automation+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -10,6 +15,11 @@
   <a href="mailto:pbibinduamb@gmail.com">
     <img src="https://img.shields.io/badge/CONNECT-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/normal-badge/?username=Bindu7729&label=PROFILE%20VIEWS&color=2563EB&style=flat-square" alt="Visitor Count" />
+  <img src="https://img.shields.io/github/followers/Bindu7729?label=Followers&style=flat-square&color=7C3AED" alt="Followers" />
 </p>
 
 ---
@@ -153,6 +163,34 @@ Hi! I'm a **Computer Science & Engineering undergraduate** at **Mohan Babu Unive
 
 ---
 
+### 🏆 Coding Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Bindu7729&theme=nord&no-bg=true&column=7" alt="Trophies" width="100%" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Diagnostics & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bindu7729&show_icons=true&theme=nord&hide_border=true&align=center" alt="Bindu's Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.pages.dev/?user=Bindu7729&theme=nord&hide_border=true" alt="Streak Stats" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bindu7729&layout=compact&theme=nord&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Bindu7729/Bindu7729">
+    <img src="https://github.com/Bindu7729/Bindu7729/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  </a>
+</p>
+
+---
 <p align="center">
   <b>⭐ Building • Learning • Growing</b>
 </p>
