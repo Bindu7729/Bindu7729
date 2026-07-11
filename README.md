@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Penumala Bindu</h1>
 <p align="center">
-  <b>Computer Science Engineering Student • Full Stack Developer • AI Enthusiast • Problem Solver</b>
+  <b>B.Tech CSE Student @ MBU | Building scalable web applications & exploring Data Science 🚀</b>
 </p>
 
 <p align="center">
