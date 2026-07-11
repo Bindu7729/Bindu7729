@@ -156,22 +156,3 @@ Hi! I'm a **Computer Science & Engineering undergraduate** at **Mohan Babu Unive
 <p align="center">
   <b>⭐ Building • Learning • Growing</b>
 </p>
-
----
-
-<h3 align="center">📊 GitHub Diagnostics & Activity</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bindu7729&show_icons=true&theme=nord&hide_border=true&align=center" alt="Bindu's Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.pages.dev/?user=Bindu7729&theme=nord&hide_border=true" alt="Streak Stats" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bindu7729&layout=compact&theme=nord&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Bindu7729/Bindu7729">
-    <img src="https://github.com/Bindu7729/Bindu7729/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-  </a>
-</p>
