@@ -93,6 +93,10 @@ Hi! I'm a **Computer Science & Engineering undergraduate** at **Mohan Babu Unive
     <th width="70%">Description</th>
   </tr>
   <tr>
+    <td>✨ <b><a href="https://github.com/Bindu7729/portfolio">Portfolio Website</a></b></td>
+    <td>Modern, premium, glassmorphic developer portfolio showcasing professional capabilities, interactive skills timeline, and featured software application integrations.</td>
+  </tr>
+  <tr>
     <td>🚀 <b><a href="https://github.com/Bindu7729/codeVista">CodeVista</a></b></td>
     <td>Interactive Programming Visualization Platform supporting step-by-step trace animations of loops, variable scopes, and reference heaps.</td>
   </tr>
