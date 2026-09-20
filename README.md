@@ -109,12 +109,12 @@ Hi! I'm a **Computer Science & Engineering undergraduate** at **Mohan Babu Unive
     <td>Premium travel planning and logistics management platform for user itinerary tracking.</td>
   </tr>
   <tr>
-    <td>☕ <b><a href="https://github.com/Bindu7729/my-cofffe-webiste">My Coffee Website</a></b></td>
-    <td>Modern Coffee Shop storefront web portal built with clean HTML, CSS, and vanilla JS.</td>
+    <td>🔒 <b><a href="https://github.com/Bindu7729/communation-main-">Ghostline</a></b></td>
+    <td>Secure peer-to-peer communication platform with real-time encrypted messaging and WebRTC audio/video calls.</td>
   </tr>
   <tr>
-    <td>🛕 <b><a href="https://github.com/Bindu7729/darsan">Darshan</a></b></td>
-    <td>Temple Darshan Booking and queue slot allocation management system.</td>
+    <td>📊 <b><a href="https://github.com/Bindu7729/student-dashboard">EduRisk AI</a></b></td>
+    <td>Predictive dashboard identifying at-risk students using performance analytics and attendance modeling.</td>
   </tr>
 </table>
 
